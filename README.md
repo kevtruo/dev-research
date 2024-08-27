@@ -6,6 +6,6 @@ My name is Kevin Truong. I provide technical services for a major league sports 
 ## Current Projects
 
 - beginner-friendly security tools
-- network monitoring tools
+- scaleable levels of beginner-friendly tooling
 - threat intel aggregator
 - Linux Mint, secured
