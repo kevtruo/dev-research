@@ -8,4 +8,4 @@ My name is Kevin Truong. I provide technical services for a major league sports 
 - beginner-friendly security tools
 - scaleable levels of beginner-friendly tooling
 - threat intel aggregator
-- Linux Mint, secured
+- Linux-from-Scratch
