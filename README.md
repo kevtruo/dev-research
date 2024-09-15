@@ -6,6 +6,5 @@ My name is Kevin Truong. I provide technical services for a major league sports 
 ## Current Projects
 
 - beginner-friendly security tools
-- scaleable levels of beginner-friendly tooling
-- threat intel aggregator
-- Linux-from-Scratch
+- malware research
+- sysadmin tooling
